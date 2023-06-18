@@ -1,0 +1,30 @@
+/* body {
+    background-image: url("https://cdn.fansshare.com/photo/backgroundimage/body-by-bg-for-website-1467130724.jpg");
+    background-repeat: repeat;
+} */
+
+
+
+
+
+
+
+
+.quote {
+    margin-right: 0px;
+}
+
+
+#Home {
+    padding-top: 10% !important;
+}
+
+@media only screen and (max-width: 600px) {
+    #Home {
+        padding-top: 20% !important;
+    }
+}
+
+#Home {
+    background-image: url("https://img.freepik.com/free-vector/stylish-glowing-digital-red-lines-banner_1017-23964.jpg?w=996&t=st=1687117151~exp=1687117751~hmac=771567163d64881747259c0a78f417eae6dcc92cafa5660d2204d7a52d4ec4b2") !important;
+}
